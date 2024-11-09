@@ -16,9 +16,8 @@
         @include('partials.navigation')
 
         @include('partials.hero-banner')
-        <br>
 
-        {{-- @include('partials.hero-banner') --}}
+        @include('partials.about')
 
     </body>
 </html>
