@@ -10,22 +10,19 @@
                     class="absolute top-0 left-1/2 -translate-x-1/2 w-32 h-32 bg-gradient-to-r from-[#3B82F6]/10 to-[#1E40AF]/10 rounded-full blur-2xl">
                 </div>
             </div>
-
-            <div class="text-center mb-16">
-                <div class="relative inline-block">
-                    <h1 class="font-bold text-4xl mb-4 tracking-wide font-['Montserrat'] relative z-10 animate-fadeInDown">
-                        <span class="bg-white bg-clip-text text-transparent">
-                            Technical Expertise 
-                        </span>
-                    </h1>
-                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-full">
-                        <div class="w-24 h-[2px] mx-auto bg-gradient-to-r from-[#3B82F6] to-[#1E40AF] rounded-full animate-fadeInUp"></div>
-                        <!-- Decorative elements -->
-                        <div class="flex justify-center gap-1 mt-2">
-                            <div class="w-1 h-1 rounded-full bg-[#3B82F6]"></div>
-                            <div class="w-2 h-1 rounded-full bg-[#2563EB]"></div>
-                            <div class="w-1 h-1 rounded-full bg-[#1E40AF]"></div>
-                        </div>
+            
+            <div class="relative inline-block">
+                <h1 class="font-bold text-4xl mb-4 tracking-wide font-['Montserrat'] relative z-10 animate-fadeInDown">
+                    <span class="bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
+                        Technical Expertise 
+                    </span>
+                </h1>
+                <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-full">
+                    <div class="w-24 h-[2px] mx-auto bg-gradient-to-r from-[#3B82F6] to-[#1E40AF] rounded-full animate-fadeInUp"></div>
+                    <div class="flex justify-center gap-1 mt-2">
+                        <div class="w-1 h-1 rounded-full bg-[#3B82F6]"></div>
+                        <div class="w-2 h-1 rounded-full bg-[#2563EB]"></div>
+                        <div class="w-1 h-1 rounded-full bg-[#1E40AF]"></div>
                     </div>
                 </div>
             </div>
