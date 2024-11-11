@@ -1,4 +1,4 @@
-<div id="project" class="bg-[#0A0F1C] text-white min-h-screen py-20">
+<div id="project" class="bg-[#0A0F1C] text-white py-20">
     <div class="relative flex items-center justify-center">
         <div class="container mx-auto px-4">
             <!-- Enhanced Header with Minimalist Design -->
