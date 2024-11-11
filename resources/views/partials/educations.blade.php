@@ -77,7 +77,7 @@
                         <div class="flex flex-col md:flex-row md:items-center gap-4">
                             <div class="flex-1">
                                 <span class="text-blue-400 text-sm font-semibold tracking-wider">2023 - Present</span>
-                                <h3 class="text-xl font-bold mt-2 font-['Montserrat'] text-white">Rekayasa Perangkat Lunak</h3>
+                                <h3 class="text-xl font-bold mt-2 font-['Montserrat'] text-white">Software engineering</h3>
                                 <h4 class="text-blue-300 font-semibold mt-1">SMKN 4 Banjarmasin</h4>
                                 <p class="text-gray-400 mt-3 font-['Inter']">
                                     Specializing in Software Engineering with a focus on web development, programming, and Android app development. Developing a strong foundation in coding, problem-solving, and software development principles.
