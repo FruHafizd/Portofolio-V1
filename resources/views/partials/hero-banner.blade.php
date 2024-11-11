@@ -45,8 +45,9 @@
             <div class="max-w-4xl mx-auto text-center">
                 <!-- Role title with refined styling -->
                 <h2 class="text-blue-400 tracking-[0.2em] uppercase text-sm font-medium mb-6 animate-fadeInUp">
-                    Full Stack Developer
+                    Turning Ideas into Code
                 </h2>
+                
 
                 <!-- Name with subtle gradient -->
                 <h1 class="text-5xl md:text-7xl font-bold mb-8 tracking-tight animate-fadeInUp animate-delay-200">
@@ -56,11 +57,9 @@
 
                 <!-- Description with optimized typography -->
                 <p class="text-gray-400 text-lg md:text-xl leading-relaxed mb-16 animate-fadeInUp animate-delay-400 max-w-3xl mx-auto">
-                    {{-- Crafting exceptional digital experiences through elegant code and innovative solutions. 
-                    Specializing in robust full-stack development with a focus on scalability and performance. --}}
-
-                    I am a full-stack programmer who loves learning new things and is highly driven to achieve goals. Committed to creating outstanding digital solutions with elegant and innovative code, focusing on scalability and performance.
+                    Hi there! I’m a full-stack developer with a passion for building elegant, user-focused applications. Every project is an opportunity to innovate and learn, and I look forward to collaborating on solutions that make a difference.
                 </p>
+                
 
                 <!-- Refined scroll indicator -->
                 <div class="animate-fadeInUp animate-delay-600">
