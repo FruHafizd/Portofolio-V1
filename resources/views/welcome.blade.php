@@ -19,5 +19,7 @@
 
         @include('partials.about')
 
+        @include('partials.skill')
+
     </body>
 </html>
