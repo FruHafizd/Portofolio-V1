@@ -2,13 +2,14 @@
     "version": 2,
     "framework": null,
     "functions": {
-        "api/index.php": { "runtime": "vercel-php"}
+        "api/index.php": { "runtime": "vercel-php@0.6.0" }
     },
     "routes": [
         { "src": "/build/(.*)", "dest": "/public/build/" },
         { "src": "/(.*)", "dest": "/api/index.php" }
     ],
     "public": true,
+    "buildCommand": "LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libssl.so.1.1 vite build",
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
