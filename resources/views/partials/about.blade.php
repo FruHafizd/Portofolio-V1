@@ -85,7 +85,7 @@
                             <div class="relative pl-4 border-l border-[#3B82F6]/30">
                                 <p class="text-[#94A3B8] leading-relaxed text-base">
                                     If you're interested in my work or have any questions, don't hesitate to
-                                    <a href="" class="text-[#3B82F6] hover:underline">
+                                    <a href="#contact" class="text-[#3B82F6] hover:underline">
                                         contact me
                                     </a>.
                                     I'm always open to new opportunities and discussions.
