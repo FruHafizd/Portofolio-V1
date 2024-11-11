@@ -41,7 +41,7 @@
                         <div class="absolute bottom-0 left-0 w-16 h-16 border-b-[1px] border-l-[1px] border-[#3B82F6]/30 rounded-bl-xl"></div>
                         
                         <div class="relative">
-                            <img src="{{ url('storage/images/profile.jpeg') }}" alt="Fru Ha" 
+                            <img src="{{ url('img/profile.jpeg') }}" alt="Fru Ha" 
                                 class="w-full aspect-[4/5] object-cover rounded-xl transform transition duration-700">
                             
                             <!-- Enhanced Overlay -->
