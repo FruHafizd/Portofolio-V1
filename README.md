@@ -1,6 +1,3 @@
-Here's the updated `README.md` reflecting Laravel 11:
-
-```markdown
 # Personal Portfolio Website
 
 This is a personal portfolio website built using **Laravel 11** and **Tailwind CSS**. It showcases my projects, skills, and experience.
