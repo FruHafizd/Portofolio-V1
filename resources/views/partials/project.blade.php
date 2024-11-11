@@ -79,7 +79,7 @@
                     <div class="relative z-10">
                         <!-- Project Image with Enhanced Container -->
                         <div class="relative h-48 mb-6 overflow-hidden rounded-lg">
-                            <img src="{{ url('img/project2.png') }}" alt="Project 2" 
+                            <img src="{{ url('img/project-2.png') }}" alt="Project 2" 
                                  class="w-full h-full object-cover transform transition-transform duration-500 group-hover:scale-105">
                             <!-- Minimal Overlay -->
                             <div class="absolute inset-0 bg-gradient-to-t from-[#0A0F1C] opacity-40"></div>
