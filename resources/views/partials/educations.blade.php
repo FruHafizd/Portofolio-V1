@@ -44,7 +44,7 @@
 </style>
 
 
-<div class="bg-[#0A0F1C] text-white mt-36 mb-36">
+<div id="educations" class="bg-[#0A0F1C] text-white mt-36 mb-36">
     <div class="relative  flex items-center justify-center overflow-hidden"> <!-- Mengurangi tinggi minimum -->
         <!-- Background Elements -->
         <div class="absolute inset-0">
@@ -54,27 +54,20 @@
 
         <div class="container mx-auto px-4 relative z-10 pt-24 pb-10"> <!-- Padding atas ditambah, bawah dikurangi -->
             <!-- Enhanced Header -->
-            <div class="text-center mb-12"> <!-- Mengurangi margin bawah -->
+            <div class="text-center mb-20">
                 <div class="relative inline-block">
                     <h1 class="font-bold text-4xl mb-4 tracking-wide font-['Montserrat'] relative z-10 animate-fadeInDown">
-                        <span class="bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
+                        <span class="text-white bg-clip-text relative">
                             Educational Journey
+                            <div class="absolute -bottom-4 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-blue-500 to-transparent"></div>
                         </span>
                     </h1>
-                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-full">
-                        <div class="w-24 h-[2px] mx-auto bg-gradient-to-r from-[#3B82F6] to-[#1E40AF] rounded-full animate-fadeInUp"></div>
-                        <div class="flex justify-center gap-1 mt-2">
-                            <div class="w-1 h-1 rounded-full bg-[#3B82F6]"></div>
-                            <div class="w-2 h-1 rounded-full bg-[#2563EB]"></div>
-                            <div class="w-1 h-1 rounded-full bg-[#1E40AF]"></div>
-                        </div>
-                    </div>
                 </div>
-                <p class="text-gray-400 mt-4 max-w-2xl mx-auto font-['Inter'] animate-fadeIn"> <!-- Mengurangi margin top -->
+                <p class="text-gray-400 max-w-2xl mx-auto mt-6 text-sm font-['Inter']">
                     Embarking on a journey of continuous learning and growth through academic excellence and practical experience.
                 </p>
             </div>
-
+            
             <!-- Timeline Education Content -->
             <div class="max-w-screen-lg mx-auto"> <!-- Set max-width to limit content width -->
                 <div class="space-y-8">

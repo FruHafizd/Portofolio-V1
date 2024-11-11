@@ -1,4 +1,4 @@
-<div class="bg-[#0A0F1C] text-white mb-36">
+<div id="experiences" class="bg-[#0A0F1C] text-white mb-36">
     <div class="relative flex items-center justify-center overflow-hidden">
         <!-- Enhanced Background Elements -->
         <div class="absolute inset-0">
@@ -10,18 +10,13 @@
             <!-- Enhanced Header -->
             <div class="text-center mb-16">
                 <div class="relative inline-block">
-                    <h1 class="font-bold text-4xl mb-4 tracking-wide font-['Montserrat'] relative z-10 animate-fadeInDown">
+                    <h1 class="font-bold text-4xl tracking-wide font-['Montserrat'] relative z-10 animate-fadeInDown">
                         <span class="bg-gradient-to-r from-white via-blue-100 to-gray-300 bg-clip-text text-transparent">
                             Experiences
                         </span>
                     </h1>
                     <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-full">
-                        <div class="w-32 h-[2px] mx-auto bg-gradient-to-r from-[#3B82F6] via-[#2563EB] to-[#1E40AF] rounded-full animate-fadeInUp"></div>
-                        <div class="flex justify-center gap-1 mt-2">
-                            <div class="w-1 h-1 rounded-full bg-[#3B82F6]"></div>
-                            <div class="w-2 h-1 rounded-full bg-[#2563EB]"></div>
-                            <div class="w-1 h-1 rounded-full bg-[#1E40AF]"></div>
-                        </div>
+                        <div class="absolute -bottom-4 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-blue-500 to-transparent"></div>
                     </div>
                 </div>
             </div>
@@ -53,7 +48,7 @@
                                             </div>
                                             <div class="ml-4">
                                                 <h3 class="text-xl font-bold text-white">Web Development Intern</h3>
-                                                <p class="font-bold text-white">On Pt. OpenSynergic</p>
+                                                <p class="font-bold text-white">On PT. OpenSynergic</p>
                                                 <p class="text-gray-400">OJS Development Team</p>
                                             </div>
                                         </div>

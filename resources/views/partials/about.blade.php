@@ -1,5 +1,5 @@
 <!-- resources/views/about.blade.php -->
-<div class="bg-[#0A0F1C] text-white">
+<div id="about" class="bg-[#0A0F1C] text-white">
     <div class="relative min-h-screen flex items-center justify-center overflow-hidden">
         <!-- Enhanced Background Elements -->
         <div class="absolute inset-0">
@@ -11,22 +11,14 @@
 
         <div class="container mx-auto px-4 relative z-10">
             <!-- Enhanced Header -->
-            <div class="text-center mb-16">
+            <div class="text-center mb-20">
                 <div class="relative inline-block">
                     <h1 class="font-bold text-4xl mb-4 tracking-wide font-['Montserrat'] relative z-10 animate-fadeInDown">
-                        <span class="bg-white bg-clip-text text-transparent">
-                            About Me
+                        <span class="text-white bg-clip-text relative">
+                            About me
+                            <div class="absolute -bottom-4 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-blue-500 to-transparent"></div>
                         </span>
                     </h1>
-                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-full">
-                        <div class="w-24 h-[2px] mx-auto bg-gradient-to-r from-[#3B82F6] to-[#1E40AF] rounded-full animate-fadeInUp"></div>
-                        <!-- Decorative elements -->
-                        <div class="flex justify-center gap-1 mt-2">
-                            <div class="w-1 h-1 rounded-full bg-[#3B82F6]"></div>
-                            <div class="w-2 h-1 rounded-full bg-[#2563EB]"></div>
-                            <div class="w-1 h-1 rounded-full bg-[#1E40AF]"></div>
-                        </div>
-                    </div>
                 </div>
             </div>
 
@@ -49,14 +41,15 @@
                         <div class="absolute bottom-0 left-0 w-16 h-16 border-b-[1px] border-l-[1px] border-[#3B82F6]/30 rounded-bl-xl"></div>
                         
                         <div class="relative">
-                            <img src="{{ asset('images/profile.jpg') }}" alt="Your Name" 
-                                 class="w-full aspect-[4/5] object-cover transform transition duration-700 group-hover:scale-105">
+                            <img src="{{ url('storage/images/profile.jpeg') }}" alt="Fru Ha" 
+                                class="w-full aspect-[4/5] object-cover rounded-xl transform transition duration-700">
                             
                             <!-- Enhanced Overlay -->
                             <div class="absolute inset-0 bg-gradient-to-t from-[#0A0F1C] via-[#0A0F1C]/20 to-transparent opacity-60"></div>
                         </div>
                     </div>
                 </div>
+
 
                 <!-- Enhanced Personal Information -->
                 <div class="space-y-8 animate-fadeInRight px-6">

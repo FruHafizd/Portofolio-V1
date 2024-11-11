@@ -1,22 +1,15 @@
 <!-- Contact Cards Section -->
-<section class="mb-36">
+<section id="contact" class="mt-36 mb-36">
     <div class="container mx-auto px-4">
         <!-- Header Section -->
-        <div class="text-center mb-16">
+        <div class="text-center mb-20">
             <div class="relative inline-block">
                 <h1 class="font-bold text-4xl mb-4 tracking-wide font-['Montserrat'] relative z-10 animate-fadeInDown">
-                    <span class="bg-gradient-to-r from-white via-blue-100 to-gray-300 bg-clip-text text-transparent">
-                        Contact me
+                    <span class="text-white bg-clip-text relative">
+                        Contact Me
+                        <div class="absolute -bottom-4 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-blue-500 to-transparent"></div>
                     </span>
                 </h1>
-                <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-full">
-                    <div class="w-32 h-[2px] mx-auto bg-gradient-to-r from-[#3B82F6] via-[#2563EB] to-[#1E40AF] rounded-full animate-fadeInUp"></div>
-                    <div class="flex justify-center gap-1 mt-2">
-                        <div class="w-1 h-1 rounded-full bg-[#3B82F6]"></div>
-                        <div class="w-2 h-1 rounded-full bg-[#2563EB]"></div>
-                        <div class="w-1 h-1 rounded-full bg-[#1E40AF]"></div>
-                    </div>
-                </div>
             </div>
         </div>
 
