@@ -7,16 +7,18 @@
     },
     "routes": [
         {
+            "src": "/img/(.*)",
+            "dest": "/public/img/"
+        },
+        {
             "src": "/(.*)",
-            "dest": "/public/index.php"
+            "dest": "/api/index.php"
         }
     ],
-    "buildCommand": "npm install && npm run build",
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://fruhafizd-portofolio.vercel.app",
-        "APP_KEY": "base64:TGaVaXwhWgjn9akhE4SCSIjGG/cQqvICUQ+PgLA3Bs0=",
+        "APP_URL": "fruhafizd-portofolio.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
