@@ -1,5 +1,5 @@
-<div class="bg-[#0A0F1C] text-white">
-    <div class="relative min-h-screen flex items-center justify-center overflow-hidden">
+<div class="bg-[#0A0F1C] text-white mb-36">
+    <div class="relative flex items-center justify-center overflow-hidden">
         <!-- Enhanced Background Elements -->
         <div class="absolute inset-0">
             <div class="absolute top-20 left-20 w-72 h-72 bg-blue-500 rounded-full mix-blend-multiply filter blur-3xl opacity-10 animate-pulse"></div>
