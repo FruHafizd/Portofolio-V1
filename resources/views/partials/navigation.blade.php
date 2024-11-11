@@ -14,10 +14,9 @@
         <div id="hs-navbar-dark" class="hidden hs-collapse overflow-hidden transition-all duration-300 basis-full grow sm:block" aria-labelledby="hs-navbar-dark-collapse">
           <div class="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5">
             <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">About</a>
-            <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">Skills</a>
+            <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">Technologies</a>
             <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">Educations</a>
             <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">Experiences</a>
-            <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">Technologies</a>
             <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">Project</a>
             <a class="font-semibold text-base text-white hover:text-gray-300 focus:outline-none" href="#" aria-current="page">Contact</a>
           </div>

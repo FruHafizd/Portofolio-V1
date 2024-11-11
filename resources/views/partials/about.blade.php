@@ -72,9 +72,9 @@
                             <!-- Enhanced text sections with decorative elements -->
                             <div class="relative pl-4 border-l border-[#3B82F6]/30">
                                 <p class="text-[#94A3B8] leading-relaxed text-base">
-                                    I was born and raised in Banjarmasin, and I am a person who is always curious, enthusiastic, and passionate about exploring new ideas and learning new things. I constantly seek opportunities to grow, expand my knowledge, and improve my skills in various areas.
+                                    I was born and raised in Banjarmasin, Indonesia, and I am a person who is always curious, enthusiastic, and passionate about exploring new ideas and learning new things. I constantly seek opportunities to grow, expand my knowledge, and improve my skills in various areas.
                                 </p>
-                            </div>
+                            </div>                            
                             
                             <div class="relative pl-4 border-l border-[#3B82F6]/30">
                                 <p class="text-[#94A3B8] leading-relaxed text-base">
