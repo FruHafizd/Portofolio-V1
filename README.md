@@ -86,5 +86,3 @@ Follow these steps to set up the project on your local machine:
 
 This project is open-source and available under the MIT License.
 ```
-
-This `README.md` should now be suitable for a Laravel 11-based portfolio project.
