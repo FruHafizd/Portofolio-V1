@@ -119,9 +119,9 @@
                     </div>
                     <h3 class="text-xl font-semibold text-white mb-2">LinkedIn</h3>
                     <p class="text-blue-200/80 text-sm mb-4">Connect with me on LinkedIn</p>
-                    <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer"
+                    <a href="linkedin.com/in/muhammad-hafizd-115ba3337" target="_blank" rel="noopener noreferrer"
                         class="inline-flex items-center text-sm text-white hover:text-blue-300 transition-colors">
-                        linkedin.com/in/yourusername
+                        linkedin.com/in/muhammad-hafizd-115ba3337
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24"
                             stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
